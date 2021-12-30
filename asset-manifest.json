@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-frameworks_curso_jonMircha/static/css/main.1a8a0596.css",
+    "main.js": "/react-frameworks_curso_jonMircha/static/js/main.e92976a1.js",
+    "static/js/787.df4a3e71.chunk.js": "/react-frameworks_curso_jonMircha/static/js/787.df4a3e71.chunk.js",
+    "index.html": "/react-frameworks_curso_jonMircha/index.html",
+    "main.1a8a0596.css.map": "/react-frameworks_curso_jonMircha/static/css/main.1a8a0596.css.map",
+    "main.e92976a1.js.map": "/react-frameworks_curso_jonMircha/static/js/main.e92976a1.js.map",
+    "787.df4a3e71.chunk.js.map": "/react-frameworks_curso_jonMircha/static/js/787.df4a3e71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.e92976a1.js"
+  ]
+}
